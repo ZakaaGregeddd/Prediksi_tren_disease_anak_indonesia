@@ -1,2 +1,0 @@
-Kode berikut hanya untuk encoding dataset chronic_disease_children_trend.csv
-Terimakasih
